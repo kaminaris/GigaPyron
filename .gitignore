@@ -1,0 +1,31 @@
+# KiCad backups and autosaves
+*-backups/
+_autosave-*
+\#auto_saved_files\#
+*.bak
+*-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+*.sch-bak
+*.kicad_prl
+
+# KiCad caches, locks and logs
+fp-info-cache
+~*.lck
+*.lck
+*.log
+
+# Fabrication outputs (regenerate from the project)
+production/
+
+# ESPHome
+secrets.yaml
+.esphome/
+
+# IDE / OS
+.idea/
+.vscode/
+Thumbs.db
+desktop.ini
+.DS_Store
