@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "KFLibrary")(type "KiCad")(uri "${KIPRJMOD}/KFLibrary.pretty")(options "")(descr ""))
   (lib (name "HeatsinkLibrary")(type "KiCad")(uri "${KIPRJMOD}/HeatsinkLibrary.pretty")(options "")(descr ""))
+  (lib (name "AIFryer")(type "KiCad")(uri "${KIPRJMOD}/AIFryer.pretty")(options "")(descr "Project footprints"))
 )

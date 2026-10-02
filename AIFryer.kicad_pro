@@ -754,28 +754,32 @@
       {
         "filename": "AIFryer.kicad_sch",
         "name": "AIFryer",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "1c8f8dd0-7c44-4346-a157-564f5273f274"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR30-40",
     "variants": []
   },
   "sheets": [
     [
       "1c8f8dd0-7c44-4346-a157-564f5273f274",
-      "Root"
+      "AIFryer"
     ],
     [
       "b2fd61ed-2a8f-48fc-b0ea-c8a786a1dbc5",
-      "TriacModule"
+      "Triac_Top"
     ],
     [
       "4f4aeb9b-b071-474c-87f6-10646ede513c",
-      "TriacModule1"
+      "Triac_Bottom"
     ],
     [
       "83265074-97bb-4ce8-8e76-4f0acca7f458",
       "ZeroCrossDetection"
+    ],
+    [
+      "c0a3f1e2-5b7d-4c1e-9a6f-2d8e4b3a7f10",
+      "Triac_Fan"
     ]
   ],
   "text_variables": {},
