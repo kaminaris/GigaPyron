@@ -270,7 +270,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -757,7 +757,7 @@
         "uuid": "1c8f8dd0-7c44-4346-a157-564f5273f274"
       }
     ],
-    "used_designators": "#PWR30-40",
+    "used_designators": "#PWR30-50,C1-3,C5,C11-12,J1-2,U1-2",
     "variants": []
   },
   "sheets": [
@@ -780,6 +780,14 @@
     [
       "c0a3f1e2-5b7d-4c1e-9a6f-2d8e4b3a7f10",
       "Triac_Fan"
+    ],
+    [
+      "49b22809-65d0-47f1-8a8e-ec5effdd0b81",
+      "ThermoCouple1"
+    ],
+    [
+      "d0de5026-0d2b-46e8-b5ba-e2b88de7d937",
+      "ThermoCouple2"
     ]
   ],
   "text_variables": {},

@@ -4,6 +4,13 @@
 	(generator_version "10.0")
 	(uuid "31d4071f-1c37-404c-8bc5-0fabc02b898e")
 	(paper "A4")
+	(title_block
+		(title "AIFryer - Zero-Cross Detector")
+		(date "2026-10-02")
+		(rev "1")
+		(comment 1 "ABS6 bridge + BSS126 current source + 4N25")
+		(comment 2 "Output: ZC (active low pulse near zero crossing)")
+	)
 	(lib_symbols
 		(symbol "Device:R"
 			(pin_numbers
