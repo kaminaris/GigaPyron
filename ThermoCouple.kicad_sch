@@ -1509,8 +1509,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 86.36 92.71 0)
-		(mirror y)
+		(at 86.36 95.25 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1520,7 +1519,7 @@
 		(dnp no)
 		(uuid "05d1c086-9984-47e4-ac42-4be0419366ad")
 		(property "Reference" "J1"
-			(at 86.36 90.17 0)
+			(at 86.36 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1529,8 +1528,8 @@
 				)
 			)
 		)
-		(property "Value" "K-TYPE 1"
-			(at 86.36 99.06 0)
+		(property "Value" "K-TYPE"
+			(at 86.36 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1540,7 +1539,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Phoenix_GMSTB:PhoenixContact_GMSTBA_2,5_2-G-7,62_1x02_P7.62mm_Horizontal"
-			(at 86.36 92.71 0)
+			(at 86.36 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1551,7 +1550,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 92.71 0)
+			(at 86.36 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1562,7 +1561,18 @@
 			)
 		)
 		(property "Description" ""
-			(at 86.36 92.71 0)
+			(at 86.36 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C395930"
+			(at 86.36 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1736,7 +1746,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2653162"
+		(property "MPN" "C2653162"
 			(at 129.54 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1866,7 +1876,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C14663"
+		(property "MPN" "C14663"
 			(at 139.7 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2284,7 +2294,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C14663"
+		(property "MPN" "C14663"
 			(at 151.13 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2368,6 +2378,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 100.33 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C22399611"
 			(at 100.33 93.98 0)
 			(hide yes)
 			(show_name no)

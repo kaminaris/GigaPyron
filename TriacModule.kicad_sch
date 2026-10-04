@@ -1843,7 +1843,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C23151"
+		(property "MPN" "C23151"
 			(at 72.39 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -1898,7 +1898,7 @@
 				)
 			)
 		)
-		(property "Value" "MOC3052M"
+		(property "Value" "MOC3052SR2M"
 			(at 93.98 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1908,7 +1908,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-6_W7.62mm_SMDSocket_SmallPads"
+		(property "Footprint" "Package_DIP:SMDIP-6_W9.53mm"
 			(at 93.98 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1931,6 +1931,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 93.98 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C19864"
 			(at 93.98 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2083,7 +2094,7 @@
 				)
 			)
 		)
-		(property "Value" "47n X2 275VAC"
+		(property "Value" "47n X2 2220"
 			(at 161.2424 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2093,7 +2104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Rect_L13.0mm_W4.0mm_P10.00mm_FKS3_FKP3_MKS4"
+		(property "Footprint" "Capacitor_SMD:C_2220_5750Metric"
 			(at 151.13 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -2115,7 +2126,18 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "X2 safety MLCC 250VAC (Fenghua FH20X473K302EHQ). Keep away from board edges / screws: a cracked MLCC fails short."
+			(at 151.13 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C5331998"
 			(at 151.13 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -2300,7 +2322,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25804"
+		(property "MPN" "C25804"
 			(at 63.5 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -2398,6 +2420,17 @@
 				)
 			)
 		)
+		(property "MPN" "C20166761"
+			(at 110.49 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "59deb1cf-ae35-4e0f-a21a-30d05e9a5902")
 		)
@@ -2452,7 +2485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabUp"
 			(at 129.54 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2475,6 +2508,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 129.54 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C87396"
 			(at 129.54 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2532,7 +2576,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED YG"
 			(at 77.5176 105.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2566,6 +2610,17 @@
 		)
 		(property "Description" ""
 			(at 72.39 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C2987554"
+			(at 72.39 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2662,7 +2717,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C22787"
+		(property "MPN" "C22787"
 			(at 78.74 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -2847,6 +2902,17 @@
 				)
 			)
 		)
+		(property "MPN" "C20166761"
+			(at 120.65 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9ee64f2c-3c94-480e-a59c-d2c66eca9f94")
 		)
@@ -2876,10 +2942,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files no)
+		(dnp yes)
 		(uuid "d11c2519-c9ec-4be7-b8e8-7d91372a8fc4")
 		(property "Reference" "HS1"
 			(at 147.32 64.77 0)

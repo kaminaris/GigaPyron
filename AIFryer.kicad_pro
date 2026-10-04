@@ -518,7 +518,8 @@
   "libraries": {
     "pinned_footprint_libs": [
       "KFLibrary",
-      "HeatsinkLibrary"
+      "HeatsinkLibrary",
+      "AIFryer"
     ],
     "pinned_symbol_libs": [
       "MAXLibrary"
@@ -757,7 +758,7 @@
         "uuid": "1c8f8dd0-7c44-4346-a157-564f5273f274"
       }
     ],
-    "used_designators": "#PWR30-50,C1-3,C5,C11-12,J1-2,U1-2",
+    "used_designators": "L1,D8-9,#PWR30-50,#PWR401-408,C1-3,C5,C7,C11-17,R34-40,#FLG401-404,J1-2,U1-2,U4",
     "variants": []
   },
   "sheets": [
